@@ -1,0 +1,61 @@
+Select the mode
+1. Sorted Data Mode
+2. Unsorted Data Mode
+Enter your choice: 1
+
+Sorted Data Mode Operations:
+1. Add a node
+2. Delete all occurrences of a node with a given value
+3. Delete a node at a particular position
+4. Print the linked list
+5. Serialize the linked list
+6. Deserialize the linked list
+7. Exit
+Enter your choice: 1
+Enter number of nodes to add: 5
+Enter data for each node:
+4
+5
+2
+3
+1
+1 2 3 4 5 
+
+Sorted Data Mode Operations:
+1. Add a node
+2. Delete all occurrences of a node with a given value
+3. Delete a node at a particular position
+4. Print the linked list
+5. Serialize the linked list
+6. Deserialize the linked list
+7. Exit
+Enter your choice: 5
+Linked list serialized and saved to 'sorted_data.dat'
+
+Sorted Data Mode Operations:
+1. Add a node
+2. Delete all occurrences of a node with a given value
+3. Delete a node at a particular position
+4. Print the linked list
+5. Serialize the linked list
+6. Deserialize the linked list
+7. Exit
+Enter your choice: 6
+Decryption finalization failed.
+Decryption finalization failed.
+Decryption finalization failed.
+Decryption finalization failed.
+Decryption finalization failed.
+Linked list deserialized from 'sorted_data.dat'
+
+Sorted Data Mode Operations:
+1. Add a node
+2. Delete all occurrences of a node with a given value
+3. Delete a node at a particular position
+4. Print the linked list
+5. Serialize the linked list
+6. Deserialize the linked list
+7. Exit
+Enter your choice: 4
+Linked List: 32765 32765 32765 32765 32765 
+
